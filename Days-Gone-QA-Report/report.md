@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="..assets/Days Gone.jpg" width="300"/>
+  <img src="../assets/Days Gone.jpg" width="300"/>
 </p>
 
 # 🎮 Gameplay Testing & QA Analysis Report — Days Gone
